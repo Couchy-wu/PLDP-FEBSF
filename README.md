@@ -2,13 +2,13 @@
 
 
 ## Codes
--In the file [UPRAPPOR](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/UPRAPPOR.py) there is a personalized dynamic correction code based on the implementation of basic-rappor.
+- In the file [UPRAPPOR](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/UPRAPPOR.py) there is a personalized dynamic correction code based on the implementation of basic-rappor.
 - In the file [EMalgorithm](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/EMalgorithm.py)  there is code for an optimization algorithm based on the implementation of the expectation maximization algorithm
 - In the file [UPKRR](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/UPKRR.py) there is a personalized dynamic correction code based on the implementation of basic-rappor.
 - In the file [samplepower](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/samplepower.py) there is code to generate a power law distribution based on the set of privacy budgets.
 
-## Data
-The [datasets](https://github.com/Couchy-wu/PLDP-FEBSF/tree/main/Datasets) folder has the following (pre-processed) datasets.
+## Datasets
+The [datasets](https://github.com/Couchy-wu/PLDP-FEBSF/tree/main/Dataset) folder has the following (pre-processed) datasets.
 - [Bank](https://www.kaggle.com/datasets/prakharrathi25/banking-dataset-marketing-targets)
 - [Adult](https://archive.ics.uci.edu/ml/datasets/adult)
 - [Census](https://www.census.gov/data/datasets.html)
@@ -28,4 +28,4 @@ I mainly used Python 3 with numpy, pandas, numba, multi-freq-ldpy, and ray libar
 For any question, Please send an email to the author of the paper.
 
 ## License
-[MIT](https://github.com/hharcolezi/risks-ldp/blob/main/LICENSE)
+[MIT](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/LICENSE)
