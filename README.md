@@ -17,7 +17,7 @@ The [datasets](https://github.com/Couchy-wu/PLDP-FEBSF/tree/main/Dataset) folder
 - I am slowly cleaning/generalizing the codes + documentation.
 
 ## Environment
-I mainly used Python 3 with numpy, pandas, numba, multi-freq-ldpy, and ray libaries. The versions I use are listed below:
+I mainly used Python 3 with numpy, pandas, Scipy. The versions I use are listed below:
 
 - Python 3.11
 - Numpy 1.26.3
