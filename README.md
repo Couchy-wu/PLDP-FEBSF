@@ -1,6 +1,5 @@
 ## Overcoming Challenges in PLDP: A New Paradigm for Protecting Privacy Budgets and Enhancing Data Utility
 
-
 ## Codes
 - In the file [UPRAPPOR](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/UPRAPPOR.py) there is a personalized dynamic calibration code based on the implementation of basic-rappor.
 - In the file [EMalgorithm](https://github.com/Couchy-wu/PLDP-FEBSF/blob/main/Code/EMalgorithm.py)  there is code for an optimization algorithm based on the implementation of the expectation maximization algorithm
